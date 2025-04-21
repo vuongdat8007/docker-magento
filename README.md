@@ -179,7 +179,7 @@ mkdir -p ~/Sites/magento
 cd $_
 
 # Download the Docker Compose template:
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/template | bash
+curl -s https://raw.githubusercontent.com/vuongdat8007/docker-magento/master/lib/template | bash
 
 # Download the version of Magento you want to use with:
 bin/download community 2.4.8
